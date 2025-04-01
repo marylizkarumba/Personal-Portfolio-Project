@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Typing animation
     const typingElement = document.querySelector('.typing');
     if (typingElement) {
-        const words = ['Frontend Developer'];
+        const words = ['Frontend Developer', 'IT Support Specialist'];
         let wordIndex = 0;
         let charIndex = 0;
         let isDeleting = false;
