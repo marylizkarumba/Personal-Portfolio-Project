@@ -1,4 +1,4 @@
- Basically my portfolio project Structure is :
+ Basically My Portfolio Project Structure is :
 
 A 4 HTML pages: Home, About, Projects, and Contact
 Some CSS files for styling and responsiveness
